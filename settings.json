@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Eggvanilla.aternos.me:14899",
-    "port": 27586,
-    "version": "",
+    "ip": "Eggvanilla.aternos.me",
+    "port": 14899,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
